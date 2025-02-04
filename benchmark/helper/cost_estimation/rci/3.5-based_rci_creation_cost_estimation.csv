@@ -1,0 +1,6 @@
+"Filename","GPT-3.5-turbo Cost","GPT-4 Cost","GPT-4-turbo Cost","GPT-4o Cost","GPT-4o-2024-08-06 Cost","GPT-4o-mini Cost"
+"ptfscg_cot_answer_extraction.json","0.716278","31.9092","14.32556","7.1839900000000005","4.5159400000000005","0.2709564"
+"ptfscg_rci-from-baseline-iteration-1.json","0.7876915","34.23513","15.75383","7.89659","5.03578","0.30214679999999994"
+"ptfscg_rci-from-pe-03-a.json","0.7505935","33.12219","15.01187","7.52005","4.753375","0.2852025"
+"ptfscg_rci-from-baseline-iteration-2.json","0.938273","41.47422","18.76546","9.408900000000001","5.9413225","0.35647935"
+"ptfscg_rci-from-baseline-iteration-3.json","1.018259","45.54513","20.36518","10.21921","6.407892499999999","0.38447354999999994"

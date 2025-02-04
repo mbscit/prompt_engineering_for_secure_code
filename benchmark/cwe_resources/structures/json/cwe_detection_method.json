@@ -1,0 +1,4109 @@
+{
+    "1004": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1007": [
+        {
+            "Method": "Manual Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "102": [],
+    "1021": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1022": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1023": [],
+    "1024": [],
+    "1025": [],
+    "103": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1037": [
+        {
+            "Method": "White Box",
+            "Effectiveness": "Opportunistic"
+        }
+    ],
+    "1038": [],
+    "1039": [],
+    "104": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1041": [],
+    "1042": [],
+    "1043": [],
+    "1044": [],
+    "1045": [],
+    "1046": [],
+    "1047": [],
+    "1048": [],
+    "1049": [],
+    "105": [],
+    "1050": [],
+    "1051": [],
+    "1052": [],
+    "1053": [],
+    "1054": [],
+    "1055": [],
+    "1056": [],
+    "1057": [],
+    "1058": [],
+    "1059": [],
+    "106": [],
+    "1060": [],
+    "1061": [],
+    "1062": [],
+    "1063": [],
+    "1064": [],
+    "1065": [],
+    "1066": [],
+    "1067": [],
+    "1068": [],
+    "1069": [],
+    "107": [],
+    "1070": [],
+    "1071": [],
+    "1072": [],
+    "1073": [],
+    "1074": [],
+    "1075": [],
+    "1076": [],
+    "1077": [],
+    "1078": [],
+    "1079": [],
+    "108": [],
+    "1080": [],
+    "1082": [],
+    "1083": [],
+    "1084": [],
+    "1085": [],
+    "1086": [],
+    "1087": [],
+    "1088": [],
+    "1089": [],
+    "109": [],
+    "1090": [],
+    "1091": [],
+    "1092": [],
+    "1093": [],
+    "1094": [],
+    "1095": [],
+    "1096": [],
+    "1097": [],
+    "1098": [],
+    "1099": [],
+    "11": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "110": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Static Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1100": [],
+    "1101": [],
+    "1102": [],
+    "1103": [],
+    "1104": [],
+    "1105": [],
+    "1106": [],
+    "1107": [],
+    "1108": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1109": [],
+    "111": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1110": [],
+    "1111": [],
+    "1112": [],
+    "1113": [],
+    "1114": [],
+    "1115": [],
+    "1116": [],
+    "1117": [],
+    "1118": [],
+    "1119": [],
+    "112": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1120": [],
+    "1121": [],
+    "1122": [],
+    "1123": [],
+    "1124": [],
+    "1125": [],
+    "1126": [],
+    "1127": [],
+    "113": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "114": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "115": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "116": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        }
+    ],
+    "1164": [],
+    "117": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1173": [
+        {
+            "Method": "Automated Static Analysis"
+        }
+    ],
+    "1174": [],
+    "1176": [],
+    "1177": [],
+    "118": [],
+    "1187": [],
+    "1188": [],
+    "1189": [
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "119": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "1190": [],
+    "1191": [
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation"
+        },
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1192": [],
+    "1193": [],
+    "12": [],
+    "120": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "1204": [],
+    "1209": [],
+    "121": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "122": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "1220": [],
+    "1221": [],
+    "1222": [],
+    "1223": [],
+    "1224": [],
+    "1229": [],
+    "123": [],
+    "1230": [],
+    "1231": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1232": [],
+    "1233": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1234": [],
+    "1235": [],
+    "1236": [],
+    "1239": [],
+    "124": [],
+    "1240": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1241": [],
+    "1242": [],
+    "1243": [],
+    "1244": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1245": [],
+    "1246": [],
+    "1247": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation"
+        },
+        {
+            "Method": "Architecture or Design Review"
+        },
+        {
+            "Method": "Architecture or Design Review"
+        }
+    ],
+    "1248": [],
+    "1249": [],
+    "125": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1250": [],
+    "1251": [],
+    "1252": [],
+    "1253": [],
+    "1254": [],
+    "1255": [],
+    "1256": [
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1257": [],
+    "1258": [],
+    "1259": [],
+    "126": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1260": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1261": [],
+    "1262": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Simulation / Emulation",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Formal Verification",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1263": [],
+    "1264": [],
+    "1265": [],
+    "1266": [],
+    "1267": [],
+    "1268": [],
+    "1269": [],
+    "127": [],
+    "1270": [],
+    "1271": [],
+    "1272": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1273": [],
+    "1274": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1275": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1276": [],
+    "1277": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Dynamic Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1278": [],
+    "1279": [],
+    "128": [],
+    "1280": [],
+    "1281": [],
+    "1282": [],
+    "1283": [],
+    "1284": [],
+    "1285": [],
+    "1286": [],
+    "1287": [],
+    "1288": [],
+    "1289": [],
+    "129": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Black Box"
+        }
+    ],
+    "1290": [],
+    "1291": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        }
+    ],
+    "1292": [],
+    "1293": [],
+    "1294": [],
+    "1295": [],
+    "1296": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        }
+    ],
+    "1297": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1298": [],
+    "1299": [],
+    "13": [],
+    "130": [],
+    "1300": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1301": [],
+    "1302": [],
+    "1303": [],
+    "1304": [],
+    "131": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "1310": [],
+    "1311": [],
+    "1312": [
+        {
+            "Method": "Manual Dynamic Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1313": [],
+    "1314": [],
+    "1315": [],
+    "1316": [
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1317": [
+        {
+            "Method": "Simulation / Emulation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Formal Verification",
+            "Effectiveness": "High"
+        }
+    ],
+    "1318": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        }
+    ],
+    "1319": [],
+    "132": [],
+    "1320": [],
+    "1321": [],
+    "1322": [],
+    "1323": [],
+    "1324": [],
+    "1325": [],
+    "1326": [
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "1327": [],
+    "1328": [
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "1329": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1330": [
+        {
+            "Method": "Architecture or Design Review"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation"
+        }
+    ],
+    "1331": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1332": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Simulation / Emulation",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "1333": [],
+    "1334": [],
+    "1335": [],
+    "1336": [],
+    "1338": [
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "1339": [],
+    "134": [
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Black Box",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "1341": [
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        }
+    ],
+    "1342": [],
+    "135": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1351": [],
+    "1357": [],
+    "138": [],
+    "1384": [],
+    "1385": [],
+    "1386": [],
+    "1389": [],
+    "1390": [],
+    "1391": [],
+    "1392": [],
+    "1393": [],
+    "1394": [],
+    "1395": [
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "14": [
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "White Box"
+        }
+    ],
+    "140": [],
+    "141": [],
+    "1419": [],
+    "142": [],
+    "1420": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "Opportunistic"
+        },
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "Opportunistic"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1421": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "Opportunistic"
+        }
+    ],
+    "1422": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "1423": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "143": [],
+    "144": [],
+    "145": [],
+    "146": [],
+    "147": [],
+    "148": [],
+    "149": [],
+    "15": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "150": [],
+    "151": [],
+    "152": [],
+    "153": [],
+    "154": [],
+    "155": [],
+    "156": [],
+    "157": [],
+    "158": [],
+    "159": [],
+    "160": [],
+    "161": [],
+    "162": [],
+    "163": [],
+    "164": [],
+    "165": [],
+    "166": [],
+    "167": [],
+    "168": [],
+    "170": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "172": [],
+    "173": [],
+    "174": [],
+    "175": [],
+    "176": [],
+    "177": [],
+    "178": [],
+    "179": [],
+    "180": [],
+    "181": [],
+    "182": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "183": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "184": [
+        {
+            "Method": "Black Box"
+        }
+    ],
+    "185": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "186": [],
+    "187": [],
+    "188": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "190": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Black Box",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "191": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "192": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "193": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "194": [],
+    "195": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "196": [],
+    "197": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "198": [
+        {
+            "Method": "Black Box"
+        }
+    ],
+    "20": [
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Manual Static Analysis"
+        },
+        {
+            "Method": "Fuzzing"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "200": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "201": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "202": [],
+    "203": [],
+    "204": [],
+    "205": [],
+    "206": [],
+    "207": [],
+    "208": [],
+    "209": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Dynamic Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis"
+        }
+    ],
+    "210": [],
+    "211": [],
+    "212": [],
+    "213": [],
+    "214": [],
+    "215": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "216": [],
+    "217": [],
+    "218": [],
+    "219": [],
+    "22": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "220": [],
+    "221": [],
+    "222": [],
+    "223": [],
+    "224": [],
+    "225": [],
+    "226": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "228": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "229": [],
+    "23": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "230": [],
+    "231": [],
+    "232": [],
+    "233": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "234": [],
+    "235": [],
+    "236": [],
+    "237": [],
+    "238": [],
+    "239": [],
+    "24": [],
+    "240": [],
+    "241": [],
+    "242": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "243": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "244": [],
+    "245": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "246": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "247": [],
+    "248": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "249": [],
+    "25": [],
+    "250": [
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "252": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "253": [],
+    "256": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "257": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "258": [],
+    "259": [
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "26": [],
+    "260": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "261": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "262": [],
+    "263": [],
+    "266": [],
+    "267": [],
+    "268": [],
+    "269": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "27": [],
+    "270": [],
+    "271": [],
+    "272": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "273": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "274": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "276": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "277": [],
+    "278": [],
+    "279": [],
+    "28": [],
+    "280": [],
+    "281": [],
+    "282": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "283": [],
+    "284": [],
+    "285": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "286": [],
+    "287": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Manual Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "288": [],
+    "289": [],
+    "29": [],
+    "290": [],
+    "291": [],
+    "292": [],
+    "293": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "294": [],
+    "295": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "296": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "297": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation"
+        },
+        {
+            "Method": "Black Box"
+        }
+    ],
+    "298": [],
+    "299": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "30": [],
+    "300": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "301": [],
+    "302": [],
+    "303": [],
+    "304": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "305": [],
+    "306": [
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "307": [
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "308": [],
+    "309": [],
+    "31": [],
+    "311": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Analysis"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "312": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "313": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "314": [],
+    "315": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "316": [],
+    "317": [],
+    "318": [],
+    "319": [
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "32": [],
+    "321": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "322": [],
+    "323": [],
+    "324": [],
+    "325": [],
+    "326": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "327": [
+        {
+            "Method": "Automated Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "328": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "329": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "33": [],
+    "330": [
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "331": [],
+    "332": [],
+    "333": [],
+    "334": [],
+    "335": [],
+    "336": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "337": [],
+    "338": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "339": [],
+    "34": [
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "340": [],
+    "341": [],
+    "342": [],
+    "343": [],
+    "344": [],
+    "345": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "346": [],
+    "347": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "348": [],
+    "349": [],
+    "35": [],
+    "350": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "351": [],
+    "352": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "SOAR Partial"
+        }
+    ],
+    "353": [],
+    "354": [],
+    "356": [],
+    "357": [],
+    "358": [],
+    "359": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "36": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "360": [],
+    "362": [
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "White Box"
+        },
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "363": [],
+    "364": [],
+    "365": [],
+    "366": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "367": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "368": [],
+    "369": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "37": [],
+    "370": [],
+    "372": [],
+    "373": [],
+    "374": [],
+    "375": [],
+    "377": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "378": [],
+    "379": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "38": [],
+    "382": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "383": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "384": [],
+    "385": [],
+    "386": [],
+    "39": [],
+    "390": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "391": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "392": [],
+    "393": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "394": [],
+    "395": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "396": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "397": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "40": [],
+    "400": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "Opportunistic"
+        }
+    ],
+    "401": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "402": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "403": [],
+    "404": [
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Dynamic Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "405": [],
+    "406": [],
+    "407": [],
+    "408": [],
+    "409": [],
+    "41": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "410": [],
+    "412": [
+        {
+            "Method": "White Box"
+        }
+    ],
+    "413": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "414": [],
+    "415": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "416": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "419": [],
+    "42": [],
+    "420": [],
+    "421": [],
+    "422": [],
+    "423": [],
+    "424": [],
+    "425": [],
+    "426": [
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Analysis"
+        }
+    ],
+    "427": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "428": [],
+    "43": [],
+    "430": [],
+    "431": [],
+    "432": [],
+    "433": [],
+    "434": [
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "435": [],
+    "436": [],
+    "437": [],
+    "439": [],
+    "44": [],
+    "440": [],
+    "441": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "443": [],
+    "444": [],
+    "446": [],
+    "447": [],
+    "448": [],
+    "449": [],
+    "45": [],
+    "450": [],
+    "451": [],
+    "453": [],
+    "454": [],
+    "455": [],
+    "456": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "457": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "458": [],
+    "459": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "46": [],
+    "460": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "462": [],
+    "463": [],
+    "464": [],
+    "466": [],
+    "467": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "468": [],
+    "469": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "47": [],
+    "470": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "471": [],
+    "472": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "473": [],
+    "474": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "475": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "476": [
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Dynamic Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "477": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "478": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "479": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "48": [],
+    "480": [
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Manual Static Analysis"
+        }
+    ],
+    "481": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "482": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "483": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "484": [
+        {
+            "Method": "White Box"
+        },
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "486": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "487": [],
+    "488": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "489": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "49": [],
+    "491": [],
+    "492": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "493": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "494": [
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "495": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "496": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "497": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "498": [],
+    "499": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "5": [],
+    "50": [],
+    "500": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "501": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "502": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "506": [
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        }
+    ],
+    "507": [],
+    "508": [],
+    "509": [],
+    "51": [],
+    "510": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "511": [],
+    "512": [],
+    "514": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "SOAR Partial"
+        }
+    ],
+    "515": [],
+    "516": [],
+    "52": [],
+    "520": [],
+    "521": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "522": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "523": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "524": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "525": [],
+    "526": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "527": [],
+    "528": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "529": [],
+    "53": [],
+    "530": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "531": [],
+    "532": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "533": [],
+    "534": [],
+    "535": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "536": [],
+    "537": [],
+    "538": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "539": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "54": [],
+    "540": [],
+    "541": [],
+    "542": [],
+    "543": [],
+    "544": [],
+    "545": [],
+    "546": [],
+    "547": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "548": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "549": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "55": [],
+    "550": [],
+    "551": [],
+    "552": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "553": [],
+    "554": [],
+    "555": [],
+    "556": [],
+    "558": [],
+    "56": [],
+    "560": [],
+    "561": [
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        }
+    ],
+    "562": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "563": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "564": [],
+    "565": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "566": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "567": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "568": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "57": [],
+    "570": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "571": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "572": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "573": [],
+    "574": [],
+    "575": [],
+    "576": [],
+    "577": [],
+    "578": [],
+    "579": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "58": [],
+    "580": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "581": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "582": [],
+    "583": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "584": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "585": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "586": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "587": [],
+    "588": [],
+    "589": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "59": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "590": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "591": [],
+    "592": [],
+    "593": [],
+    "594": [],
+    "595": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "596": [],
+    "597": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "598": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "599": [],
+    "6": [],
+    "600": [],
+    "601": [
+        {
+            "Method": "Manual Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "602": [],
+    "603": [],
+    "605": [],
+    "606": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "607": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "608": [],
+    "609": [],
+    "61": [],
+    "610": [],
+    "611": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "612": [],
+    "613": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "614": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "615": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "616": [],
+    "617": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "618": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "619": [],
+    "62": [],
+    "620": [],
+    "621": [],
+    "622": [],
+    "623": [],
+    "624": [],
+    "625": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "626": [],
+    "627": [],
+    "628": [
+        {
+            "Method": "Other"
+        }
+    ],
+    "636": [],
+    "637": [],
+    "638": [],
+    "639": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "64": [],
+    "640": [],
+    "641": [],
+    "642": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "643": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "644": [],
+    "645": [],
+    "646": [],
+    "647": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "648": [],
+    "649": [],
+    "65": [],
+    "650": [],
+    "651": [],
+    "652": [],
+    "653": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "654": [],
+    "655": [],
+    "656": [],
+    "657": [],
+    "66": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "662": [],
+    "663": [],
+    "664": [],
+    "665": [
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Dynamic Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "666": [],
+    "667": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "668": [],
+    "669": [],
+    "67": [],
+    "670": [],
+    "671": [],
+    "672": [],
+    "673": [],
+    "674": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "675": [],
+    "676": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "680": [],
+    "681": [],
+    "682": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "683": [],
+    "684": [],
+    "685": [
+        {
+            "Method": "Other"
+        }
+    ],
+    "686": [],
+    "687": [
+        {
+            "Method": "Manual Static Analysis"
+        }
+    ],
+    "688": [
+        {
+            "Method": "Other"
+        }
+    ],
+    "689": [],
+    "69": [],
+    "690": [
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "White Box"
+        }
+    ],
+    "691": [],
+    "692": [],
+    "693": [],
+    "694": [],
+    "695": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "696": [],
+    "697": [],
+    "698": [
+        {
+            "Method": "Black Box"
+        }
+    ],
+    "7": [],
+    "703": [
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "704": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "705": [],
+    "706": [],
+    "707": [],
+    "708": [],
+    "71": [],
+    "710": [],
+    "72": [],
+    "73": [
+        {
+            "Method": "Automated Static Analysis"
+        }
+    ],
+    "732": [
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Manual Static Analysis"
+        },
+        {
+            "Method": "Manual Dynamic Analysis"
+        },
+        {
+            "Method": "Fuzzing"
+        },
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "733": [
+        {
+            "Method": "Black Box"
+        },
+        {
+            "Method": "White Box"
+        }
+    ],
+    "74": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "749": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "75": [],
+    "754": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Dynamic Analysis"
+        }
+    ],
+    "755": [],
+    "756": [],
+    "757": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "758": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "759": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "76": [],
+    "760": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "761": [],
+    "762": [],
+    "763": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "764": [],
+    "765": [],
+    "766": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "767": [],
+    "768": [],
+    "769": [],
+    "77": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "770": [
+        {
+            "Method": "Manual Static Analysis"
+        },
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "Opportunistic"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis"
+        }
+    ],
+    "771": [],
+    "772": [],
+    "773": [],
+    "774": [],
+    "775": [],
+    "776": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "777": [],
+    "778": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "779": [],
+    "78": [
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "780": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "781": [],
+    "782": [],
+    "783": [],
+    "784": [],
+    "785": [],
+    "786": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "787": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        }
+    ],
+    "788": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "789": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "79": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Black Box",
+            "Effectiveness": "Moderate"
+        }
+    ],
+    "790": [],
+    "791": [],
+    "792": [],
+    "793": [],
+    "794": [],
+    "795": [],
+    "796": [],
+    "797": [],
+    "798": [
+        {
+            "Method": "Black Box",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Manual Static Analysis"
+        },
+        {
+            "Method": "Manual Dynamic Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "799": [],
+    "8": [],
+    "80": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "804": [],
+    "805": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis"
+        }
+    ],
+    "806": [],
+    "807": [
+        {
+            "Method": "Manual Static Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "81": [],
+    "82": [],
+    "820": [],
+    "821": [],
+    "822": [],
+    "823": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "824": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "825": [],
+    "826": [],
+    "827": [],
+    "828": [],
+    "829": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "83": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "830": [],
+    "831": [],
+    "832": [],
+    "833": [],
+    "834": [
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "835": [],
+    "836": [],
+    "837": [],
+    "838": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "839": [],
+    "84": [],
+    "841": [],
+    "842": [],
+    "843": [],
+    "85": [],
+    "86": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "862": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "863": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "Limited"
+        },
+        {
+            "Method": "Automated Dynamic Analysis"
+        },
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "87": [],
+    "88": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "89": [
+        {
+            "Method": "Automated Static Analysis"
+        },
+        {
+            "Method": "Automated Dynamic Analysis",
+            "Effectiveness": "Moderate"
+        },
+        {
+            "Method": "Manual Analysis"
+        },
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Automated Results Interpretation",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Dynamic Analysis with Manual Results Interpretation",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "9": [],
+    "90": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "908": [],
+    "909": [],
+    "91": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "910": [],
+    "911": [],
+    "912": [],
+    "913": [
+        {
+            "Method": "Fuzzing",
+            "Effectiveness": "High"
+        }
+    ],
+    "914": [],
+    "915": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "916": [
+        {
+            "Method": "Automated Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Binary or Bytecode",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Manual Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis - Source Code",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "SOAR Partial"
+        },
+        {
+            "Method": "Architecture or Design Review",
+            "Effectiveness": "High"
+        }
+    ],
+    "917": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "918": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "92": [],
+    "920": [],
+    "921": [],
+    "922": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "923": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "924": [],
+    "925": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "926": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "927": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "93": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "939": [],
+    "94": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "940": [],
+    "941": [],
+    "942": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "943": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "95": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ],
+    "96": [],
+    "97": [],
+    "98": [
+        {
+            "Method": "Manual Analysis",
+            "Effectiveness": "High"
+        },
+        {
+            "Method": "Automated Static Analysis"
+        }
+    ],
+    "99": [
+        {
+            "Method": "Automated Static Analysis",
+            "Effectiveness": "High"
+        }
+    ]
+}
